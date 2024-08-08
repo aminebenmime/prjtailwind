@@ -1,0 +1,37 @@
+nav{ list-style-type: none;
+    overflow: hidden;
+    background-color: black;
+    
+    text-align: center; 
+   }
+    nav a{
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: small;
+  font-size: 20px;
+float: inline-end;}
+ nav a:hover{background-color: gray;}
+ body {background-image: url("https://t4.ftcdn.net/jpg/07/03/95/89/360_F_703958961_8dsfCzx4AU5Grby69vhDk6glDuqQmdvL.jpg");
+  background-color: beige;
+  background-repeat: no-repeat;
+background-size: 915px;
+position: relative;}
+.gallery{
+  display: inline-block;
+  border: 2px solid black;
+  margin: 5px;}
+.gallery .descriptin{
+padding: 10px;
+text-align: center;}
+.gallery:hover{
+  border: 1px solid pink ;}
+  .order{ 
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: pink;
+  background-color: whitesmoke;
+  border-radius: 15px;
+  border-color: pink;}
+  #images{float:right;
+  padding: 15px;}
